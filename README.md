@@ -1,2 +1,2 @@
 # Electric-Cycle
-![user](test_run.mp4)
+![user](test_run.gif)
