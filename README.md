@@ -1,5 +1,4 @@
 # Electric-Cycle
-# Electric Cycle Project
 
 ## Components
 ![Figure](https://github.com/Atharv-16/Electric-Cycle/assets/119600601/a136846f-a421-4bc9-9f07-db483b721893)
