@@ -29,7 +29,7 @@ The project incorporates the following components and features:
 
 - **Free Gear System**: The free gear system enhances the cycling experience by allowing the rider to switch between motor-assisted and traditional pedaling modes.
 
-For more detailed information about the project, including technical specifications and construction details, please refer to the paper provided in the [project paper](paper.pdf).
+For more detailed information about the project, including technical specifications and construction details, please refer to the paper provided in the [project paper](Paper.pdf).
 
 
 ![user](test_run.gif)
