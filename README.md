@@ -11,10 +11,6 @@ This repository contains details and documentation for an electric cycle project
 
 - [Introduction](#introduction)
 - [Project Details](#project-details)
-- [Getting Started](#getting-started)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Introduction
 
