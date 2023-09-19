@@ -1,7 +1,9 @@
 # Electric-Cycle
 # Electric Cycle Project
 
-![Electric Cycle](electric_cycle.jpg)
+## Components
+![Figure](https://github.com/Atharv-16/Electric-Cycle/assets/119600601/a136846f-a421-4bc9-9f07-db483b721893)
+
 
 This repository contains details and documentation for an electric cycle project, including the use of a geared DC motor, motor controller, electric throttle, brakes, and free gear system.
 
